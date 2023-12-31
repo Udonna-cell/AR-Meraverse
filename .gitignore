@@ -1,0 +1,6 @@
+dist/css
+dist/index.html
+node_modules/
+
+setup.sh
+tsconfig.json
